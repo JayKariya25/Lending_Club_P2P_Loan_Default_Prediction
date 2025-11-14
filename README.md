@@ -96,4 +96,4 @@ The project concludes that **Logistic Regression** is the most valuable model fo
 ## Contributors
 
 * Jay Kariya (Owner)
-* **Kanakgoyal13**
+  
