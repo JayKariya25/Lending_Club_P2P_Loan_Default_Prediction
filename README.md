@@ -92,3 +92,8 @@ The project concludes that **Logistic Regression** is the most valuable model fo
 - **Hosting Platform:** GitHub.
 
 ### **Dataset Link** : https://www.kaggle.com/datasets/wordsforthewise/lending-club
+
+## Contributors
+
+* Jay Kariya (Owner)
+* **Kanakgoyal13**
